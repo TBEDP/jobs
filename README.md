@@ -15,17 +15,16 @@ jobs
 
 #### 职位要求
 - 过硬的前端知识
-  - 熟悉HTML、CSS、DOM编程（JavaScript）
+    - 熟悉HTML、CSS、DOM编程（JavaScript）
 - Node.js
-  - JavaScript基础
-    - 原型链、作用域链
-    - 标识符查找
-  - 熟悉Node.js
+    - JavaScript基础
+        - 原型链、作用域链
+        - 标识符查找
     - 熟悉模块化原理，能够熟练使用NPM各项功能
     - 异步原理、异步流程控制、异步编程
     - 熟悉Node.js各个模块
     - 熟悉
-  - 熟悉Web端相关技术
+- 熟悉Web端相关技术
     - TCP/HTTP协议
     - Web服务器的
     - MVC模式的实现
